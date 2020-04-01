@@ -47,6 +47,8 @@ public class SetInitialOrbitalVelocity : MonoBehaviour
     private float rotationalSpeed; // Rotational Speed.
     private Rigidbody rb;
 
+    [Header("Input Axial Tilt:")] // Axial Tilt. 
+    public float axialTilt;
 
 
 
@@ -109,6 +111,9 @@ public class SetInitialOrbitalVelocity : MonoBehaviour
 
         //Set       
         SetVelocity(initialVelocity);
+
+        // Axial Tilt of the body
+        this.transform.Rotate(unitTangent, this.axialTilt);
 
         //Print
         Debug.Log(this.rb.name + "'s Velocity:  " + initialVelocity.magnitude);

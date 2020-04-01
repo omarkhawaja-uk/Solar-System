@@ -12,11 +12,11 @@ from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiS
 (file size too big for Github)
 Unzip the folder and click on the application ```VR```
 * Space Ship Mode:
-- W,A,S,D For movement, and use mouse to look around. 
+ W,A,S,D For movement, and use mouse to look around. 
 
-* SOLAR SYSTEM MODE:
-- Look around using the mouse.
-- Press Keys: 1,2,3,4,5,6,7 
+* SOLAR SYSTEM MODE :rocket::
+** Look around using the mouse.
+** Press Keys: 1,2,3,4,5,6,7 
 - To switch between Planets (except for Earth). 
 - Press the 'TAB' button to switch back to the main camera view. 
 

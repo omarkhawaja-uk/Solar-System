@@ -46,7 +46,7 @@ Close-up of the the Moon orbiting the Earth.
  
  
 # Main Scripts
-# Physics
+### Physics Scripts
 ### Set
 
 ```
@@ -93,7 +93,7 @@ InitialisingBodies.sc
 ### Old Scripts
 
 ```SetInitialOrbitalVelocity-old```
-My old script has been attached for reference. 
+My old script has been attached for reference only. 
 
 
 ## Space Ship
@@ -109,6 +109,7 @@ Is the Prefab that containts the 3D Shuttle, 'Engines', the Camera set-up and ot
 Animation files as well as the controller files
 
 The following script:
+
 ```
 Flying.sc
 ``` 

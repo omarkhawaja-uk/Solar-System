@@ -7,7 +7,7 @@
 Project files have been uploaded here.
 
 # *Scripts*
-### Initial Velocity 
+### Set
 
 ```
 SetInitialOrbitalVelocity.sc

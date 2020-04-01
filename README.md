@@ -27,7 +27,7 @@ Close-up of the the Moon orbiting the Earth.
 ***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT UP AGAIN. WINDOWS ONLY***
  
  
-# *Scripts*
+# Main Scripts
 ### Set
 
 ```

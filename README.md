@@ -2,14 +2,14 @@
 
 [My Project Website](https://omarprojects.weebly.com/)
 All videos can be viewed at my website. 
-
-
-
-
 Project files have been uploaded here.
 
+
 ## RUN 
-* Download all files from the folder ```Solar System```
+* Download the folder ```Solar System Windows```
+from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiSTVh8YJQKr00FxY5Akgfu/view?usp=sharing)
+(file size too big for Github)
+Unzip the folder and click on the application ```VR```
 * SPACE SHIP MODE:
 W,A,S,D FOR MOVEMENT AND USE YOUR MOUSE TO LOOK AROUND. 
 

@@ -6,12 +6,14 @@
 * The main Project files have been uploaded here. Due to large amount of files, 
  I have only uploaded the files of significance. And the final build that can be run. 
 
+![Overview](https://i.imgur.com/TeWGkE0.jpg "")
+
 ## RUN 
 * Download the entire folder ```Solar System Windows```
 from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiSTVh8YJQKr00FxY5Akgfu/view?usp=sharing)
 (*file size too big for Github*).
 Unzip the folder and click on the application !```VR```
-![](https://i.imgur.com/Y3FyRHq.png| width=100)
+
 
 * Space Ship Mode :rocket::
  W,A,S,D For movement, and use mouse to look around. 

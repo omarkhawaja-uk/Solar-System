@@ -2,7 +2,8 @@
 
 [My Project Website](https://www.omar.digital)
 
-![alt text](https://imgur.com/a/tnbeJZH "Simulation Overview")
+[logo]: https://imgur.com/a/tnbeJZH "Simulation Overview"
+
 Project files have been uploaded here.
 
 # *Scripts*

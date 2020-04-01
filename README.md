@@ -22,6 +22,15 @@ Unzip the folder and click on the application !```VR```
 Look around using the mouse.
 Press Keys: 1,2,3,4,5,6,7 
 To switch between Planets (except for Earth). 
+```
+1 = Mercury 
+2 = Venus 
+3 = Mars
+4 = Jupiter
+5 = Saturn
+6 = Uranus
+7 = Neptune
+```
 Press the 'TAB' button to switch back to the main camera view. 
 
 * Earth & Moon Mode :earth_africa::

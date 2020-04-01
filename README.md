@@ -3,29 +3,27 @@
 [My Project Website](https://omarprojects.weebly.com/)
 
 * All videos can be viewed at my website. 
-Project files have been uploaded here.
-
+* The main Project files have been uploaded here. Due to large amount of files, 
+ I have only uploaded the files of significance. And the final build that can be run. 
 
 ## RUN 
 * Download the folder ```Solar System Windows```
 from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiSTVh8YJQKr00FxY5Akgfu/view?usp=sharing)
 (file size too big for Github)
 Unzip the folder and click on the application ```VR```
-* SPACE SHIP MODE:
-W,A,S,D FOR MOVEMENT AND USE YOUR MOUSE TO LOOK AROUND. 
-
-***NOTE: WINDOWS ONLY***
+* Space Ship Mode:
+- W,A,S,D For movement, and use mouse to look around. 
 
 * SOLAR SYSTEM MODE:
-LOOK AROUND USING YOUR MOUSE.
-PRESS KEYS 1,2,3,4,5,6,7 TO SWITCH BETWEEN PLANETS
-(EXCEPT FOR EARTH) 
-PRESS THE 'TAB' KEY TO SWITCH BACK TO THE MAIN CAMERA AND LOOK AROUND. 
+- Look around using the mouse.
+- Press Keys: 1,2,3,4,5,6,7 
+- To switch between Planets (except for Earth). 
+- Press the 'TAB' button to switch back to the main camera view. 
 
 * EARTH & MOON MODE:
-VIEW THE MOON ORBITING THE EARTH. 
+- Close-up of the the Moon orbiting the Earth. 
 
-***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT UP AGAIN***
+***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT UP AGAIN. WINDOWS ONLY***
  
  
 # *Scripts*

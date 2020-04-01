@@ -1,7 +1,9 @@
 # **Omar Khawaja** VR Astrophysics Project
 
-Here I will be uploading my project files. I will do my best to keep files organised, and will upload the final version of my scripts closer to the end of the Project as I will be making continous changes.
-Note: *Sicne I have a lot of files, it may be easier for me to upload everything to the my own Git Respository near the end - TBC.*
+[My Project Website](https://www.omar.digital)
+
+![alt text](https://imgur.com/a/tnbeJZH "Simulation Overview")
+Project files have been uploaded here.
 
 # *Scripts*
 ### Initial Velocity 
@@ -11,6 +13,8 @@ SetInitialOrbitalVelocity.sc
 ``` 
 
 * Calculates and sets the intial velocity. 
+* Calculates Periods and rotational velocity.
+* Allows for the input of Inclination and Axial tilt. 
 
 My old script has been attached for reference. 
 
@@ -24,7 +28,22 @@ Gravity.sc
 
 ### Other Scripts
 
-* TBC
+* Data.cs
+
+* CamFollow.cs
+
+* Flying.cs
+
+* PlanetName.cs
+
+* LoadScene.cs
+
+* LoadSceneVideoTimer.cs
+
+* RestartScene.cs
+
+* PlanetCameras.cs
+
 
 
 ## Space Ship

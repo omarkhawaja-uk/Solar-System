@@ -17,7 +17,6 @@ SetInitialOrbitalVelocity.sc
 * Calculates Periods and rotational velocity.
 * Allows for the input of Inclination and Axial tilt. 
 
-My old script has been attached for reference. 
 
 ### Gravity 
 
@@ -25,7 +24,6 @@ My old script has been attached for reference.
 Gravity.sc
 ``` 
 * Calculates the Gravitional Force between all bodies, and is attached to all bodies. 
-* Here the constant G is parameter that can be changed. 
 
 ### Other Scripts
 ```Data.cs```
@@ -47,7 +45,7 @@ Gravity.sc
 ### Old Scripts
 
 ```SetInitialOrbitalVelocity-old```
-Old version of the script. 
+My old script has been attached for reference. 
 
 
 ## Space Ship

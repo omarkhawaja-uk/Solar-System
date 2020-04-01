@@ -7,10 +7,11 @@
  I have only uploaded the files of significance. And the final build that can be run. 
 
 ## RUN 
-* Download the folder ```Solar System Windows```
+* Download the entire folder ```Solar System Windows```
 from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiSTVh8YJQKr00FxY5Akgfu/view?usp=sharing)
-(file size too big for Github)
-Unzip the folder and click on the application ```VR```
+(*file size too big for Github*).
+Unzip the folder and click on the application ![Icon](https://i.imgur.com/Y3FyRHq.png " ")```VR```
+
 
 * Space Ship Mode :rocket::
  W,A,S,D For movement, and use mouse to look around. 

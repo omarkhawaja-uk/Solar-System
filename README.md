@@ -4,10 +4,10 @@
 
 [logo]: https://imgur.com/a/tnbeJZH "Simulation Overview"
 
- ```
+
 Project files have been uploaded here.
 
-# RUN 
+## RUN 
 * Download all files from the folder ```Solar System```
 * SPACE SHIP MODE:
 W,A,S,D FOR MOVEMENT AND USE YOUR MOUSE TO LOOK AROUND. 
@@ -22,7 +22,7 @@ PRESS THE 'TAB' KEY TO SWITCH BACK TO THE MAIN CAMERA AND LOOK AROUND.
 VIEW THE MOON ORBITING THE EARTH. 
 
 ***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT BACK-UP.***
- ```
+ 
  
 # *Scripts*
 ### Set

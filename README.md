@@ -1,6 +1,6 @@
 # **Omar Khawaja** VR Astrophysics Project
 
-[My Project Website](https://www.omar.digital)
+[My Project Website](https://omarprojects.weebly.com/)
 
 [logo]: https://imgur.com/a/tnbeJZH "Simulation Overview"
 
@@ -49,7 +49,7 @@ Gravity.sc
 
 ## Space Ship
 
-Here I have uploaded all files pertaning to my Space Ship / Shuttle, to be used for final group project. 
+* Files pertaning to my Space Ship / Shuttle (to be used for final Group Project). 
 
 The file named:
 ```
@@ -57,7 +57,7 @@ Omar Shuttle Prefab.prefab
 ```
 Is the Prefab that containts the 3D Shuttle, 'Engines', the Camera set-up and other neccesary components. 
 
-All the Animation files as well as the controller file is uploaded. 
+Animation files as well as the controller files
 
 The following script:
 ```
@@ -67,28 +67,16 @@ controls the movements of the Space Ship.
 
 ### Scenes 
 
-* TBC
+* Scene files. 
 
-### Galaxy Introduction 
+### Planets
 
-* TBC
+* Planet prefabs. 
 
-### UI
+### Galaxy Effects
 
-* TBC
+* Galaxy intro effect.
 
-### Sun Simulation
+### Sun Effects
 
-* TBC
-
-
-## License
-
-* TBC
-
-## Acknowledgments / Credits
-
-* NASA ... 
-* Milkyway Skybox ...
-* Microsoft 3D Shuttle Model ...
-* TBC ...
+* Sun prefab and sun effects. 

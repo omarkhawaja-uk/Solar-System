@@ -16,12 +16,18 @@ Unzip the folder and click on the application !```VR```
 
 
 * Space Ship Mode :rocket::
- W,A,S,D For movement, and use mouse to look around. 
+For movement use the keys W,A,SD and your mouse to look around. 
+```
+W = Forward
+A = Left
+S = Backwatds
+D = Right
+```
 
 * Solar System Mode 🌌:
 Look around using the mouse.
 Press Keys: 1,2,3,4,5,6,7 
-To switch between Planets (except for Earth). 
+To switch between Planets (except for Earth, go onto Earth & Moon mode). 
 ```
 1 = Mercury 
 2 = Venus 

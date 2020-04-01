@@ -1,7 +1,8 @@
 # **Omar Khawaja** VR Astrophysics Project
 
 [My Project Website](https://omarprojects.weebly.com/)
-*All videos can be viewed at my website. 
+
+* All videos can be viewed at my website. 
 Project files have been uploaded here.
 
 
@@ -24,7 +25,7 @@ PRESS THE 'TAB' KEY TO SWITCH BACK TO THE MAIN CAMERA AND LOOK AROUND.
 * EARTH & MOON MODE:
 VIEW THE MOON ORBITING THE EARTH. 
 
-***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT BACK-UP.***
+***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT UP AGAIN***
  
  
 # *Scripts*

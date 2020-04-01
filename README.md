@@ -46,6 +46,7 @@ Close-up of the the Moon orbiting the Earth.
  
  
 # Main Scripts
+# Physics
 ### Set
 
 ```
@@ -64,7 +65,15 @@ Gravity.sc
 ``` 
 * Calculates the Gravitional Force between all bodies, and is attached to all bodies. 
 
+### Initialising Bodies
+
+```
+InitialisingBodies.sc
+``` 
+* Intilises the Perihilion distances, and sets the order for which the Planets and Moon(s) are 'Started' in the simulation. 
+
 ### Other Scripts
+
 ```Data.cs```
 
 ```CamFollow.cs```

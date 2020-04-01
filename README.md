@@ -28,22 +28,27 @@ Gravity.sc
 * Here the constant G is parameter that can be changed. 
 
 ### Other Scripts
+```
+Data.cs
+```
+```
+CamFollow.cs
+```
+```Flying.cs```
 
-* Data.cs
+```PlanetName.cs```
 
-* CamFollow.cs
+```LoadScene.cs
 
-* Flying.cs
+```LoadSceneVideoTimer.cs
 
-* PlanetName.cs
+```RestartScene.cs
 
-* LoadScene.cs
+```PlanetCameras.cs
 
-* LoadSceneVideoTimer.cs
+### Old Scripts
 
-* RestartScene.cs
-
-* PlanetCameras.cs
+```SetInitialOrb
 
 
 

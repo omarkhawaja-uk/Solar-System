@@ -4,7 +4,7 @@
 
 * All videos can be viewed at my website. 
 * The main Project files have been uploaded here. Due to large amount of files, 
- I have only uploaded the files of significance. And the final build that can be run. 
+ I have only uploaded the files of significance. And have included the final **build** that can be run. 
 
 ![Overview](https://i.imgur.com/TeWGkE0.jpg "")
 

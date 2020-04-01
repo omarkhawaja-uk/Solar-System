@@ -1,8 +1,9 @@
 # **Omar Khawaja** VR Astrophysics Project
 
 [My Project Website](https://omarprojects.weebly.com/)
+All videos can be viewed at my website. 
 
-[logo]: https://imgur.com/a/tnbeJZH "Simulation Overview"
+
 
 
 Project files have been uploaded here.

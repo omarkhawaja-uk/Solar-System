@@ -1,4 +1,4 @@
-# **Omar Khawaja** VR Astrophysics Project
+# **Omar Khawaja** | VR Astrophysics Project
 
 [My Project Website](https://omarprojects.weebly.com/)
 

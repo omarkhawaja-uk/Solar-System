@@ -38,18 +38,18 @@ CamFollow.cs
 
 ```PlanetName.cs```
 
-```LoadScene.cs
+```LoadScene.cs```
 
-```LoadSceneVideoTimer.cs
+```LoadSceneVideoTimer.cs```
 
-```RestartScene.cs
+```RestartScene.cs```
 
-```PlanetCameras.cs
+```PlanetCameras.cs```
 
 ### Old Scripts
 
-```SetInitialOrb
-
+```SetInitialOrbitalVelocity-old```
+Old version of the script. 
 
 
 ## Space Ship

@@ -28,12 +28,10 @@ Gravity.sc
 * Here the constant G is parameter that can be changed. 
 
 ### Other Scripts
-```
-Data.cs
-```
-```
-CamFollow.cs
-```
+```Data.cs```
+
+```CamFollow.cs```
+
 ```Flying.cs```
 
 ```PlanetName.cs```

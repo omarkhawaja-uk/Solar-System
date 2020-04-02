@@ -16,7 +16,7 @@ Unzip the folder and click on the application ```VR```
 
 
 * ```Space Ship``` Mode :rocket::
-For movement use the keys W,A,SD and your mouse to look around. 
+For movement use the keys W,A,S,D and your mouse to look around. 
 ```
 W = Forward
 A = Left

@@ -12,7 +12,7 @@
 * Download the entire folder ```Solar System Windows```
 from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiSTVh8YJQKr00FxY5Akgfu/view?usp=sharing)
 (*file size too big for Github*).
-Unzip the folder and click on the application !```VR```
+Unzip the folder and click on the application ```VR```
 
 
 * Space Ship Mode :rocket::
@@ -20,7 +20,7 @@ For movement use the keys W,A,SD and your mouse to look around.
 ```
 W = Forward
 A = Left
-S = Backwatds
+S = Backwards
 D = Right
 ```
 

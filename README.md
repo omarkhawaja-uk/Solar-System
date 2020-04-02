@@ -27,7 +27,7 @@ D = Right
 * ```Solar System``` Mode 🌌:
 Look around using the mouse.
 Press Keys: 1,2,3,4,5,6,7 
-To switch between Planets (except for Earth, go onto Earth & Moon mode). 
+To switch between Planets (except for Earth, go onto ```Earth & Moon``` Mode). 
 ```
 1 = Mercury 
 2 = Venus 
@@ -37,7 +37,7 @@ To switch between Planets (except for Earth, go onto Earth & Moon mode).
 6 = Uranus
 7 = Neptune
 ```
-Press the 'TAB' button to switch back to the main camera view. 
+Press the ```TAB``` button to switch back to the main camera view. 
 
 * ```Earth & Moon``` Mode :earth_africa::
 Close-up of the the Moon orbiting the Earth. 

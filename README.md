@@ -78,7 +78,7 @@ InitialisingBodies.sc
 
 ```CamFollow.cs```
 
-```Flying.cs```
+```Flying.cs``` 
 
 ```PlanetName.cs```
 
@@ -98,7 +98,7 @@ My old script has been attached for reference only.
 
 ## Space Ship
 
-* Files pertaning to my Space Ship / Shuttle (to be used for final Group Project). 
+* Files pertaning to my Space Ship / Shuttle (to be used for Final Group Project). 
 
 The file:
 ```
@@ -108,12 +108,12 @@ Is the Prefab that containts the 3D Shuttle, 'Engines', the Camera set-up and ot
 
 Animation files as well as the controller files
 
-The following script:
+I created the following script:
 
 ```
 Flying.sc
 ``` 
-controls the movements of the Space Ship.
+To control the movement of the Space Ship/Shuttle, to be attached to the main camera, in turn controlling the space ship. 
 
 ### Scenes 
 

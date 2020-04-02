@@ -15,7 +15,7 @@ from the following [DOWNLOAD LINK](https://drive.google.com/file/d/1DHoBQy4NioiS
 Unzip the folder and click on the application ```VR```
 
 
-* Space Ship Mode :rocket::
+* ```Space Ship``` Mode :rocket::
 For movement use the keys W,A,SD and your mouse to look around. 
 ```
 W = Forward
@@ -24,7 +24,7 @@ S = Backwards
 D = Right
 ```
 
-* Solar System Mode 🌌:
+* ```Solar System``` Mode 🌌:
 Look around using the mouse.
 Press Keys: 1,2,3,4,5,6,7 
 To switch between Planets (except for Earth, go onto Earth & Moon mode). 
@@ -39,7 +39,7 @@ To switch between Planets (except for Earth, go onto Earth & Moon mode).
 ```
 Press the 'TAB' button to switch back to the main camera view. 
 
-* Earth & Moon Mode :earth_africa::
+* ```Earth & Moon``` Mode :earth_africa::
 Close-up of the the Moon orbiting the Earth. 
 
 ***NOTE: TO SWITCH BETWEEN ANY OF THE THREE MODES YOU MUST CLOSE THE SIMULATION AND OPEN IT UP AGAIN. WINDOWS ONLY***

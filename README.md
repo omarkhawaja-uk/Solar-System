@@ -70,7 +70,7 @@ Gravity.sc
 ```
 InitialisingBodies.sc
 ``` 
-* Intilises the Perihilion distances, and sets the order for which the Planets and Moon(s) are 'Started' in the simulation. 
+* Intialises the Perihilion distances, and sets the order for which the Planets and Moon(s) are 'Started' in the simulation. 
 
 ### Other Scripts
 
@@ -100,9 +100,9 @@ My old script has been attached for reference only.
 
 * Files pertaning to my Space Ship / Shuttle (to be used for final Group Project). 
 
-The file named:
+The file:
 ```
-Omar Shuttle Prefab.prefab
+Shuttle Prefab.prefab
 ```
 Is the Prefab that containts the 3D Shuttle, 'Engines', the Camera set-up and other neccesary components. 
 
